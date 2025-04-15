@@ -1,10 +1,43 @@
-#📺 BrightTV Viewership Analysis
+# BrightTV Viewership Analysis
+
 This project explores patterns and trends in TV viewership data to uncover audience behavior, peak viewing times, and content performance across different channels or programs.
 
-##🔍 Objective
+
+## 📂 🔍 Objective
+
 To analyze viewership data to identify insights that can inform programming, advertising strategy, and audience engagement.
 
-##📈 Key Areas of Analysis
+
+## 📂 Key Areas of Analysis
+
+
+
+---
+
+## 📌 Tools & Tech
+
+- SQL (Standard)
+- Snowflake Cloud Data Platform
+
+
+
+
+------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+# 📺 BrightTV Viewership Analysis
+This project explores patterns and trends in TV viewership data to uncover audience behavior, peak viewing times, and content performance across different channels or programs.
+
+## 🔍 Objective
+To analyze viewership data to identify insights that can inform programming, advertising strategy, and audience engagement.
+
+## 📈 Key Areas of Analysis
 Daily & Weekly Viewership Trends
 
 Channel/Program Performance
@@ -13,14 +46,14 @@ Audience Demographics (if available)
 
 Prime Time vs Off-Peak Patterns
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 Python (Pandas, Matplotlib, Seaborn, etc.)
 
 Jupyter Notebooks
 
 [Optional: SQL / Power BI / Tableau, if used]
 
-##✅ Outcomes
+## ✅ Outcomes
 Identification of high-performing time slots and programs
 
 Viewer behavior patterns across time and channels
