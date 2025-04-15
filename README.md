@@ -41,7 +41,7 @@ Data-informed recommendations for scheduling and content planning
 
 ## 📂 Project Files
 
-- [Objective Description] - Information File: Details the objectives of the exercise and what has to be executed.
+- [Objective Description](https://github.com/Tiyani-Baloyi-Analyst/BrightTV-Viewership-Case-Study/blob/main/BrightTV%20Case%20Study.pdf) - Information File: Details the objectives of the exercise and what has to be executed.
 - [Results Final Report](https://github.com/Tiyani-Baloyi-Analyst/BrightTV-Viewership-Case-Study/blob/main/Bright%20TV%20Case%20Study%20Final%20Report.pdf) - Output File: Contains the objectives and the detailed analysis, with recommendations.
 - [User_Profiles](https://github.com/Tiyani-Baloyi-Analyst/BrightTV-Viewership-Case-Study/blob/main/CSV_User_Profiles.csv) - Input Data CSV File: Contains the information of the users.
 - [Viewership](https://github.com/Tiyani-Baloyi-Analyst/BrightTV-Viewership-Case-Study/blob/main/CSV_Viewership.csv) - Input Data CSV File: Contains the records of the TV views linked with users IDs.
