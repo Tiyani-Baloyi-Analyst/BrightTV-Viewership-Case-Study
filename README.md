@@ -41,9 +41,12 @@ Data-informed recommendations for scheduling and content planning
 
 ## 📂 Project Files
 
-- [Objective Description File]() - Information File: Details the objectives of the exercise and what has to be executed.
-
-
+- [Objective Description]() - Information File: Details the objectives of the exercise and what has to be executed.
+- [Results Final Report]() - Output File: Contains the objectives and the detailed analysis, with recommendations.
+- [User_Profiles]() - Input Data CSV File: Contains the information of the users.
+- [Viewership]() - Input Data CSV File: Contains the records of the TV views linked with users IDs.
+- [BrightTV SQL Code]() - Output SQL File: Contains the full SQL code developed when analysing the data.
+- [SQL Table and Pivot Analysis]() - Output Data CSV File: The output table from SQL in the tab 'SQL Table' also contains pivot tables used to develop the visuals in the tab 'Pivot Analysis'.
 
 
 
