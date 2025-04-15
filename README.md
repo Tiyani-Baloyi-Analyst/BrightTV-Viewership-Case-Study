@@ -1,61 +1,52 @@
-# BrightTV Viewership Analysis
-
-This project explores patterns and trends in TV viewership data to uncover audience behavior, peak viewing times, and content performance across different channels or programs.
-
-
-## 📂 🔍 Objective
-
-To analyze viewership data to identify insights that can inform programming, advertising strategy, and audience engagement.
-
-
-## 📂 Key Areas of Analysis
-
-
-
----
-
-## 📌 Tools & Tech
-
-- SQL (Standard)
-- Snowflake Cloud Data Platform
-
-
-
-
-------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
 # 📺 BrightTV Viewership Analysis
-This project explores patterns and trends in TV viewership data to uncover audience behavior, peak viewing times, and content performance across different channels or programs.
+
+This project explores patterns and trends in BrightTV viewership data to uncover audience behavior, peak viewing times, and demgraphic performance across different channels or programs.
+
 
 ## 🔍 Objective
-To analyze viewership data to identify insights that can inform programming, advertising strategy, and audience engagement.
+
+To analyze viewership data to identify insights that can inform programming, advertising strategy, audience engagement, and TV base growth.
+
 
 ## 📈 Key Areas of Analysis
-Daily & Weekly Viewership Trends
+
+Daily Viewership Trends
 
 Channel/Program Performance
 
-Audience Demographics (if available)
+Audience Demographics
 
-Prime Time vs Off-Peak Patterns
+Time and duration of the viewership
+
 
 ## 🛠️ Tools & Technologies
-Python (Pandas, Matplotlib, Seaborn, etc.)
 
-Jupyter Notebooks
+SQL (Standard)
+Snowflake Cloud Platform
+MS Excel
+PowerBI (Desktop)
 
-[Optional: SQL / Power BI / Tableau, if used]
 
 ## ✅ Outcomes
+
 Identification of high-performing time slots and programs
 
 Viewer behavior patterns across time and channels
 
+Viewership based on demographic distribution
+
 Data-informed recommendations for scheduling and content planning
+
+----
+
+## 📂 Project Files
+
+- [Objective Description File]() - Information File: Details the objectives of the exercise and what has to be executed.
+
+
+
+
+
+
+
+
