@@ -49,7 +49,7 @@ Data-informed recommendations for scheduling and content planning
 - [SQL Table and Pivot Analysis](https://github.com/Tiyani-Baloyi-Analyst/BrightTV-Viewership-Case-Study/blob/main/SQL%20Table%20and%20Pivot%20Analysis.xlsx) - Output Data CSV File: The output table from SQL in the tab **'SQL Table'** also contains pivot tables used to develop the visuals in the tab **'Pivot Analysis'**.
 
 
-
+- [Methodology](https://github.com/Tiyani-Baloyi-Analyst/BrightTV-Viewership-Case-Study/blob/main/BrightTV%20Case%20Study%20Methodology.pdf) - Progress File: This file contains the detailed methodology and the approched used to outline the progress of the project.
 
 
 
