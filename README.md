@@ -1,6 +1,6 @@
 # 📺 BrightTV Viewership Analysis
 
-This project explores patterns and trends in BrightTV viewership data to uncover audience behavior, peak viewing times, and demgraphic performance across different channels or programs.
+This project explores patterns and trends in BrightTV viewership data to uncover audience behavior, peak viewing times, and demographic performance across different channels or programs.
 
 
 ## 🔍 Objective
